@@ -1,6 +1,6 @@
 ## Welcome👋, and thanks for visiting my profile.
 
-![Senior Full Stack Developer](https://raw.githubusercontent.com/becandev/becandev/refs/heads/main/background.jpg)
+![Senior Full Stack Developer](https://raw.githubusercontent.com/ajaychip/ajaychip/refs/heads/main/background.jpg)
   
 
 ## Senior Full Stack Developer with 10+ years of hands-on experience delivering scalable web solutions.
